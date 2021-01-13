@@ -41,7 +41,7 @@ Clone this project
 ```bash
 > pkg install git
 > git clone https://github.com/adimas999/BotV1
-> cd botwasapv2-main
+> cd botv2
 ```
 
 Install the dependencies:
